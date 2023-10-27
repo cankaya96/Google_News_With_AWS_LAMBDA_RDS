@@ -1,1 +1,1 @@
-# Google_News_With_AWS_RDS
+# Google_News_With_AWS_LAMBDA_RDS
